@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to FingerFrenzy, a mobile game developed by QuantumQuasar. Your privacy is important to us, and we want to assure you that we do not collect any personal information from our users.
+Welcome to FingerFrenzy, a mobile game developed by QuantumQuasarGames. Your privacy is important to us, and we want to assure you that we do not collect any personal information from our users.
 
 ## 2. Information We Do Not Collect
 
