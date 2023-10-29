@@ -20,4 +20,4 @@ Our game is suitable for children of all ages. We are committed to complying wit
 
 ## 5. Contact Us
 
-If you have any questions or concerns about our game or this privacy policy, please feel free to contact us at qunatumquasargames@gmail.com.
+If you have any questions or concerns about our game or this privacy policy, please feel free to contact us at quantumquasargames@gmail.com.
