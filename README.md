@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 29.10.2023
 
 ## 1. Introduction
 
-Welcome to [Your Game Name], a mobile game developed by QuantumQuasar. Your privacy is important to us, and we want to assure you that we do not collect any personal information from our users.
+Welcome to FingerFrenzy, a mobile game developed by QuantumQuasar. Your privacy is important to us, and we want to assure you that we do not collect any personal information from our users.
 
 ## 2. Information We Do Not Collect
 
@@ -20,4 +20,4 @@ Our game is suitable for children of all ages. We are committed to complying wit
 
 ## 5. Contact Us
 
-If you have any questions or concerns about our game or this privacy policy, please feel free to contact us at [Your Contact Information].
+If you have any questions or concerns about our game or this privacy policy, please feel free to contact us at qunatumquasargames@gmail.com.
